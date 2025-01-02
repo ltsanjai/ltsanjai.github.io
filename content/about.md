@@ -3,4 +3,4 @@ title: About
 type: about
 ---
 
-This is the about page.
+This is the about me page.

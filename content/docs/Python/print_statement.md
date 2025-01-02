@@ -1,5 +1,5 @@
 ---
-title: Leaf Page
+title: The print() statement
 type: docs
 prev: docs/folder/
 ---
