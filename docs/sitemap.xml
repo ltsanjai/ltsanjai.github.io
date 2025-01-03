@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/first-page/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/</loc>
+    <loc>/docs/first-page/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/python/leaf/</loc>
+    <loc>/docs/</loc>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/docs/python/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/python/</loc>
+    <loc>/tags/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/docs/python/print_statement/</loc>
   </url>
 </urlset>

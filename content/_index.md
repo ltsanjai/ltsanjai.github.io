@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: Bits & Bytes
 toc: false
 ---
 
-This is the landing page.
+This is the landing page of **Bits & Bytes**.
 
 ## Explore
 

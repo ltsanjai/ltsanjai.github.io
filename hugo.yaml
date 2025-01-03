@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Bits & Bytes
 publishDir: "docs"
 
 # import hextra as module

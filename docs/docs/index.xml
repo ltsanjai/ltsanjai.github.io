@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Site – Documentation</title>
-    <link>//localhost:1313/docs/</link>
-    <description>Recent content in Documentation on My Site</description>
+    <title>Bits &amp; Bytes – Documentation</title>
+    <link>/docs/</link>
+    <description>Recent content in Documentation on Bits &amp; Bytes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="//localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Demo Page</title>
-      <link>//localhost:1313/docs/first-page/</link>
+      <link>/docs/first-page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/first-page/</guid>
+      <guid>/docs/first-page/</guid>
       <description>
         
         
@@ -30,14 +30,14 @@
     
     <item>
       <title>The print() statement</title>
-      <link>//localhost:1313/docs/python/print_statement/</link>
+      <link>/docs/python/print_statement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/python/print_statement/</guid>
+      <guid>/docs/python/print_statement/</guid>
       <description>
         
         
-        &lt;p&gt;This page is under a folder.&lt;/p&gt;
+        &lt;p&gt;place holder&lt;/p&gt;
 
       </description>
     </item>
