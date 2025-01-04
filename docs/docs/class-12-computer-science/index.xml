@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bits &amp; Bytes – Class 12 Computer Science</title>
+    <link>//localhost:1313/docs/class-12-computer-science/</link>
+    <description>Recent content in Class 12 Computer Science on Bits &amp; Bytes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="//localhost:1313/docs/class-12-computer-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>My Mother At Sixty-Six</title>
+      <link>//localhost:1313/docs/class-12-computer-science/chapter_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/class-12-computer-science/chapter_1/</guid>
+      <description>
+        
+        
+        &lt;p&gt;place holder for CS&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bits &amp; Bytes – Python</title>
-    <link>/docs/python/</link>
+    <link>//localhost:1313/docs/python/</link>
     <description>Recent content in Python on Bits &amp; Bytes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="/docs/python/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:1313/docs/python/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>The print() statement</title>
-      <link>/docs/python/print_statement/</link>
+      <link>//localhost:1313/docs/python/print_statement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/python/print_statement/</guid>
+      <guid>//localhost:1313/docs/python/print_statement/</guid>
       <description>
         
         
