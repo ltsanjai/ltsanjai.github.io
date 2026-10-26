@@ -3,7 +3,7 @@
 // need to change for day-to-day updates (name, links, skills, copy, etc).
 // ---------------------------------------------------------------------------
 
-export const GITHUB_USERNAME = 'ltsanjai';
+//export const GITHUB_USERNAME = 'ltsanjai';
 
 export const profile = {
   name: 'L.T.Sanjai',
@@ -18,7 +18,7 @@ export const profile = {
 
 export const contact = {
   email: 'ltsanjaiedu.gmail.com',
-  github: `https://github.com/${GITHUB_USERNAME}`,
+  github: `https://github.com/ltsanjai`,
   linkedin: 'https://linkedin.com/in/sanjai-l-t-2ab018447',
 }
 
