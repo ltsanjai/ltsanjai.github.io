@@ -19,7 +19,7 @@ export const profile = {
 export const contact = {
   email: 'ltsanjaiedu.gmail.com',
   github: `https://github.com/ltsanjai`,
-  linkedin: 'linkedin.com/in/sanjai-l-t-2ab018447',
+  linkedin: 'https://linkedin.com/in/sanjai-l-t-2ab018447',
 }
 
 export const aboutHighlights = [
