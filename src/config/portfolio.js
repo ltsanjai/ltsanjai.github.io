@@ -3,11 +3,11 @@
 // need to change for day-to-day updates (name, links, skills, copy, etc).
 // ---------------------------------------------------------------------------
 
-export const GITHUB_USERNAME = 'YOUR_GITHUB_USERNAME'
+export const GITHUB_USERNAME = 'ltsanjai'
 
 export const profile = {
   name: 'L.T.Sanjai',
-  location: '[YOUR LOCATION]',
+  location: 'VIT-AP, Amaravati, Andra Pradesh',
   role: 'Computer Science student, developer and builder',
   tagline: "I build things for the web.",
   badge: 'CS STUDENT • DEVELOPER • BUILDER',
