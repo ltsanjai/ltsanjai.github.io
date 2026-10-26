@@ -3,7 +3,7 @@
 // need to change for day-to-day updates (name, links, skills, copy, etc).
 // ---------------------------------------------------------------------------
 
-export const GITHUB_USERNAME = 'ltsanjai'
+export const GITHUB_USERNAME = 'ltsanjai';
 
 export const profile = {
   name: 'L.T.Sanjai',
