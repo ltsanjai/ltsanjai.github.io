@@ -18,7 +18,7 @@ export const profile = {
 
 export const contact = {
   email: 'ltsanjaiedu.gmail.com',
-  github: `https://github.com/ltsanjai`,
+  github: `https://github.com/${GITHUB_USERNAME}`,
   linkedin: 'https://linkedin.com/in/sanjai-l-t-2ab018447',
 }
 
